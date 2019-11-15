@@ -55,14 +55,16 @@ p {
 
 .navbar {
   padding: 0 0 4.5rem;
+	position: relative;
 }
+
 
 .navbar-brand {
   font-family: "Poppins";
   font-size: 1.8rem;
   font-weight: bold;
 	color: #ff4c68;
-	width: 30
+	width: 30;
 }
 
 .nav-image {
